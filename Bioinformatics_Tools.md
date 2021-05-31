@@ -2,3 +2,7 @@
 
 1. [SAMtools](http://www.htslib.org/download/)
 2. [BCFtools](http://www.htslib.org/download/)
+
+## Bioinformatics Libraries
+
+1. [HTSlib](http://www.htslib.org/download/)
