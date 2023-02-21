@@ -19,5 +19,3 @@ credentials::set_github_pat()
 
 ## Verify settings
 usethis::git_sitrep()
-
-Test
